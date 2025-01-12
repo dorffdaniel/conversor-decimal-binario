@@ -118,7 +118,7 @@
 @media (min-width: 320px) and (max-width: 480px) {
         .container{
         height: 100vh;
-        background: url(imagem/background2.jpg) center no-repeat;
+        background: url(imagem/background02.jpg) center no-repeat;
         background-size: cover;
         } 
 
