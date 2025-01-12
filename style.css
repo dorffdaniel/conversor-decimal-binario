@@ -139,6 +139,10 @@
             height: 6em;
         }
 
+        .conteudo-input label{
+            font-weight: 600;
+        }
+
         .conteudo-input input{
             border: 2px solid #000000;
             border-radius: 0.6em;
@@ -160,6 +164,12 @@
         }
 
         .conteudo p span{
-            font-weight: 400;
+            font-weight: 500;
         }
+}
+
+@media (min-width: 481px) and (max-width: 683px){
+    .conteudo h1{
+        font-size: 1.3em;
+    }
 }
